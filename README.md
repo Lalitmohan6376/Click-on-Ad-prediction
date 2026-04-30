@@ -84,18 +84,3 @@ False Negatives
 
 This project shows how machine learning can be used to predict user behavior.
 It can help businesses improve advertisement performance and increase profit 📊
-
-
-🚀 Future Improvements
-
-Try other models like Logistic Regression or XGBoost
-
-Use more data for better accuracy
-
-Deploy the model using Flask for real-world use
-
-
-
----
-
-Agar chaho to main isko aur interview-level strong bana sakta hoon ya is project ke liye perfect explanation (2–3 minute answer) bhi bana deta hoon 👍
